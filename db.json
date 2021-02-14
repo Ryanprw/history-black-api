@@ -96,7 +96,97 @@ NOTE: If you're seeing this, I know the errors are there. The final product will
     "died": "October 19, 1806",
     "age": 74,
     "knownFor": "Almanac author, surveyor, landowner, farmer"
-  }
+  },
+  {
+    "id": 11,
+    "name": "Amiri Baraka",
+    "description": "Amiri Baraka (born Everett LeRoi Jones ), previously known as LeRoi Jones and Imamu Amear Baraka, was an American writer of poetry, drama, fiction, essays and music criticism. He was the author of numerous books of poetry and taught at several universities, including the University at Buffalo and Stony Brook University. He received the PEN/Beyond Margins Award in 2008 for Tales of the Out and the Gone.",
+    "dob": "October 7, 1934",
+    "died": "January 9, 2014",
+    "age": 79,
+    "knownFor": "Actor, teacher, theater director, theater producer, writer, activist, poet"
+  },
+  {
+    "id": 12,
+    "name": "Romare Bearden",
+    "description": "Romare Bearden was an American artist, author, and songwriter. He worked with many types of media including cartoons, oils, and collages. Born in Charlotte, North Carolina, Bearden grew up in New York City and Pittsburgh, Pennsylvania, and graduated from New York University in 1935.",
+    "dob": "September 2, 1911",
+    "died": "March 12, 1988",
+    "age": 76,
+    "knownFor": "Artist, author, songwriter"
+  },
+  {
+    "id": 13,
+    "name": "Mary McLeod Bethune",
+    "description": "Mary Jane McLeod Bethune (born Mary Jane McLeod) was an American educator, stateswoman, philanthropist, humanitarian, womanist, and civil rights activist. Bethune founded the National Council for Negro Women in 1935, established the organization's flagship journal Aframerican Women's Journal, and resided as president or leader for myriad African American women's organizations including the National Association for Colored Women and the National Youth Administration's Negro Division",
+    "dob": "July 10, 1875",
+    "died": "May 18, 1955",
+    "age": 79,
+    "knownFor": "Educator, stateswoman, philanthropist, humanitarian, womanist, civil rights activist"
+  },
+  {
+    "id": 14,
+    "name": "Guion Bluford",
+    "description": "Guion Stewart Bluford Jr. is an American aerospace engineer, retired U.S. Air Force officer and fighter pilot, and former NASA astronaut, who is the first African American and the second person of African descent to go to space. Before becoming an astronaut, he was an officer in the U.S. Air Force, where he remained while assigned to NASA, rising to the rank of colonel. He participated in four Space Shuttle flights between 1983 and 1992. In 1983, as a member of the crew of the Orbiter Challenger on the mission STS-8, he became the first African American in space as well as the second person of African ancestry in space, after Cuban cosmonaut Arnaldo Tamayo Méndez.",
+    "dob": "November 22, 1942",
+    "died": "Alive",
+    "age": 78,
+    "knownFor": "Engineer, Fighter Pilot, Astronaut"
+  },
+  {
+    "id": 15,
+    "name": "Arna Bontemps",
+    "description": "Arna Wendell Bontemps was an American poet, novelist and librarian, and a noted member of the Harlem Renaissance.",
+    "dob": "October 13, 1902",
+    "died": "June 4, 1973",
+    "age": 71,
+    "knownFor": "Poet, novelist, librarian"
+  },
+  {
+    "id": 16,
+    "name": "Edward Brooke",
+    "description": "Edward William Brooke III was an American Republican politician. In 1966, he became the first African American popularly elected to the United States Senate. He represented Massachusetts in the Senate from 1967 to 1979.",
+    "dob": "October 26, 1919",
+    "died": "January 3, 2015",
+    "age": 95,
+    "knownFor": "United States Senator"
+  },
+  {
+    "id": 17,
+    "name": "Gwendolyn Brooks",
+    "description": "Gwendolyn Elizabeth Brooks was an American poet, author, and teacher. Her work often dealt with the personal celebrations and struggles of ordinary people in her community. She won the Pulitzer Prize for Poetry on May 1, 1950, for Annie Allen, making her the first African American to receive a Pulitzer Prize.",
+    "dob": "June 7, 1917",
+    "died": "December 3, 2000",
+    "age": 70,
+    "knownFor": "Poet, author, teacher"
+  },
+  {
+    "id": 18,
+    "name": "Blanche Bruce",
+    "description": "Blanche Kelso Bruce was born into slavery in Prince Edward County, Virginia and went on to become a politician who represented Mississippi as a Republican in the United States Senate from 1875 to 1881. He was the first elected African-American senator to serve a full term.",
+    "dob": "March 1, 1841",
+    "died": "March 17, 1898",
+    "age": 57,
+    "knownFor": "First African-American politician to serve a full term"
+  },
+  {
+    "id": 19,
+    "name": "Ralph Bunche",
+    "description": "Ralph Johnson Bunche was an American political scientist, academic, and diplomat who received the 1950 Nobel Peace Prize for his late 1940s mediation in Israel. He was the first African American to be so honored. He was involved in the formation and administration of the United Nations and played a major role in numerous peacekeeping operations sponsored by the UN. In 1963, he was awarded the Presidential Medal of Freedom by President John F. Kennedy",
+    "dob": "August 7, 1904",
+    "died": "December 9, 1971",
+    "age": 67,
+    "knownFor": "First African American to receive the Nobel Peace Prize"
+  },
+  {
+    "id": 20,
+    "name": "George Washington Carver",
+    "description": "George Washington Carver was an American agricultural scientist and inventor who promoted alternative crops to cotton and methods to prevent soil depletion. He was the most prominent black scientist of the early 20th century.",
+    "dob": "1 January 1864",
+    "died": "5 January 1943",
+    "age": 79,
+    "knownFor": "Scientist"
+  },
 ]
 
   {
@@ -107,4 +197,4 @@ NOTE: If you're seeing this, I know the errors are there. The final product will
     "died": "",
     "age": ,
     "knownFor": ""
-  }
+  },
