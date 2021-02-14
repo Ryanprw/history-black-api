@@ -1,0 +1,110 @@
+/* Todos
+
+1. Add their images
+
+NOTE: If you're seeing this, I know the errors are there. The final product will not have the errors.
+
+*/
+
+[
+  {
+    "id": 1,
+    "name": "Hank Aaron",
+    "description": "Henry Louis Aaron , nicknamed \"Hammer\" or \"Hammerin' Hank\", was an American professional baseball right fielder who played 23 seasons in Major League Baseball (MLB), from 1954 through 1976. He spent 21 seasons with the Milwaukee/Atlanta Braves in the National League (NL) and two seasons with the Milwaukee Brewers in the American League (AL).",
+    "dob": "February 5, 1934",
+    "died": "January 22, 2021",
+    "age": 86,
+    "knownFor": "Baseball"
+  },
+  {
+    "id": 2,
+    "name": "Ira Aldridge",
+    "description": "Ira Frederick Aldridge was an American and later British actor and playwright who made his career after 1824 largely on the London stage and in Europe, especially in Shakespearean roles. Born in New York City, Aldridge is the only actor of African-American descent among the thirty-three actors of the English stage honoured with bronze plaques at the Shakespeare Memorial Theatre at Stratford-upon-Avon.",
+    "dob": "July 24, 1807",
+    "died": "August 7, 1867",
+    "age": 60,
+    "knownFor": "Actor and playwright"
+  },
+  {
+    "id": 3,
+    "name": "Muhammad Ali",
+    "description": "Muhammad Ali, born Cassius Marcellus Clay Jr. was an American professional boxer, activist, entertainer and philanthropist. Nicknamed The Greatest, he is widely regarded as one of the most significant and celebrated figures of the 20th century and as one of the greatest boxers of all time.",
+    "dob": "January 17, 1942",
+    "died": "June 3, 2016",
+    "age": 74,
+    "knownFor": "Boxing"
+  },
+  {
+    "id": 4,
+    "name": "Richard Allen (bishop)",
+    "description": "Richard Allen was a minister, educator, writer, and one of America's most active and influential Black leaders. In 1794, he founded the African Methodist Episcopal Church (AME), the first independent Black denomination in the United States. He opened his first AME church in 1794 in Philadelphia, Pennsylvania.",
+    "dob": "February 14, 1760",
+    "died": "March 26, 1831",
+    "age": 71,
+    "knownFor": "Minister, Educator, Writer"
+  },
+  {
+    "id": 5,
+    "name": "Marian Anderson",
+    "description": "Marian Anderson was an American contralto. She performed a wide range of music, from opera to spirituals. Anderson performed with renowned orchestras in major concert and recital venues throughout the United States and Europe between 1925 and 1965.",
+    "dob": "February 27, 1897",
+    "died": "April 8, 1993",
+    "age": 94,
+    "knownFor": "Contralto"
+  },
+  {
+    "id": 6,
+    "name": "Maya Angelou",
+    "description": "Maya Angelou, born Marguerite Annie Johnson, was an American poet, memoirist, and civil rights activist. She published seven autobiographies, three books of essays, several books of poetry, and is credited with a list of plays, movies, and television shows spanning over 50 years. She received dozens of awards and more than 50 honorary degrees. Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences. The first, I Know Why the Caged Bird Sings (1969), tells of her life up to the age of 17 and brought her international recognition and acclaim.",
+    "dob": "April 4, 1928",
+    "died": "May 28, 2014",
+    "age": 86,
+    "knownFor": "Poet, Memoirist, Civil rights activist"
+  },
+  {
+    "id": 7,
+    "name": "Arthur Ashe",
+    "description": "Arthur Robert Ashe Jr. was an American professional tennis player who won three Grand Slam singles titles. He was the first black player selected to the United States Davis Cup team and the only black man ever to win the singles title at Wimbledon, the US Open, and the Australian Open. He retired in 1980.",
+    "dob": "July 10, 1943",
+    "died": "February 6, 1993",
+    "age": 49,
+    "knownFor": "Tennis"
+  },
+  {
+    "id": 8,
+    "name": "Crispus Attucks",
+    "description": "Crispus Attucks was an American stevedore of African and Native American descent, widely regarded as the first person killed in the Boston Massacre and thus the first American killed in the American Revolution.",
+    "dob": "c.1723",
+    "died": "March 5, 1770",
+    "age": 49,
+    "knownFor": "Stevedore"
+  },
+  {
+    "id": 9,
+    "name": "James Arthur Baldwin",
+    "description": "James Arthur Baldwin was an American novelist, playwright, essayist, poet, and activist. His essays, collected in Notes of a Native Son (1955), explore intricacies of racial, sexual, and class distinctions in the Western society of the United States during the mid twentieth-century.",
+    "dob": "August 2, 1924",
+    "died": "December 1, 1987",
+    "age": 63,
+    "knownFor": "Novelist, Playwright, Essayist, Poet, Activist"
+  },
+  {
+    "id": 10,
+    "name": "Benjamin Banneker",
+    "description": "Benjamin Banneker was a free African-American almanac author, surveyor, landowner and farmer who had knowledge of mathematics and natural history. Born in Baltimore County, Maryland, to a free African-American woman and a former slave, Banneker had little or no formal education and was largely self-taught. He became known for assisting Major Andrew Ellicott in a survey that established the original borders of the District of Columbia, the federal capital district of the United States.",
+    "dob": "November 9, 1731",
+    "died": "October 19, 1806",
+    "age": 74,
+    "knownFor": "Almanac author, surveyor, landowner, farmer"
+  }
+]
+
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "dob": "",
+    "died": "",
+    "age": ,
+    "knownFor": ""
+  }
