@@ -1,200 +1,303 @@
-/* Todos
-
-1. Add their images
-
-NOTE: If you're seeing this, I know the errors are there. The final product will not have the errors.
-
-*/
-
-[
-  {
-    "id": 1,
-    "name": "Hank Aaron",
-    "description": "Henry Louis Aaron , nicknamed \"Hammer\" or \"Hammerin' Hank\", was an American professional baseball right fielder who played 23 seasons in Major League Baseball (MLB), from 1954 through 1976. He spent 21 seasons with the Milwaukee/Atlanta Braves in the National League (NL) and two seasons with the Milwaukee Brewers in the American League (AL).",
-    "dob": "February 5, 1934",
-    "died": "January 22, 2021",
-    "age": 86,
-    "knownFor": "Baseball"
-  },
-  {
-    "id": 2,
-    "name": "Ira Aldridge",
-    "description": "Ira Frederick Aldridge was an American and later British actor and playwright who made his career after 1824 largely on the London stage and in Europe, especially in Shakespearean roles. Born in New York City, Aldridge is the only actor of African-American descent among the thirty-three actors of the English stage honoured with bronze plaques at the Shakespeare Memorial Theatre at Stratford-upon-Avon.",
-    "dob": "July 24, 1807",
-    "died": "August 7, 1867",
-    "age": 60,
-    "knownFor": "Actor and playwright"
-  },
-  {
-    "id": 3,
-    "name": "Muhammad Ali",
-    "description": "Muhammad Ali, born Cassius Marcellus Clay Jr. was an American professional boxer, activist, entertainer and philanthropist. Nicknamed The Greatest, he is widely regarded as one of the most significant and celebrated figures of the 20th century and as one of the greatest boxers of all time.",
-    "dob": "January 17, 1942",
-    "died": "June 3, 2016",
-    "age": 74,
-    "knownFor": "Boxing"
-  },
-  {
-    "id": 4,
-    "name": "Richard Allen (bishop)",
-    "description": "Richard Allen was a minister, educator, writer, and one of America's most active and influential Black leaders. In 1794, he founded the African Methodist Episcopal Church (AME), the first independent Black denomination in the United States. He opened his first AME church in 1794 in Philadelphia, Pennsylvania.",
-    "dob": "February 14, 1760",
-    "died": "March 26, 1831",
-    "age": 71,
-    "knownFor": "Minister, Educator, Writer"
-  },
-  {
-    "id": 5,
-    "name": "Marian Anderson",
-    "description": "Marian Anderson was an American contralto. She performed a wide range of music, from opera to spirituals. Anderson performed with renowned orchestras in major concert and recital venues throughout the United States and Europe between 1925 and 1965.",
-    "dob": "February 27, 1897",
-    "died": "April 8, 1993",
-    "age": 94,
-    "knownFor": "Contralto"
-  },
-  {
-    "id": 6,
-    "name": "Maya Angelou",
-    "description": "Maya Angelou, born Marguerite Annie Johnson, was an American poet, memoirist, and civil rights activist. She published seven autobiographies, three books of essays, several books of poetry, and is credited with a list of plays, movies, and television shows spanning over 50 years. She received dozens of awards and more than 50 honorary degrees. Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences. The first, I Know Why the Caged Bird Sings (1969), tells of her life up to the age of 17 and brought her international recognition and acclaim.",
-    "dob": "April 4, 1928",
-    "died": "May 28, 2014",
-    "age": 86,
-    "knownFor": "Poet, Memoirist, Civil rights activist"
-  },
-  {
-    "id": 7,
-    "name": "Arthur Ashe",
-    "description": "Arthur Robert Ashe Jr. was an American professional tennis player who won three Grand Slam singles titles. He was the first black player selected to the United States Davis Cup team and the only black man ever to win the singles title at Wimbledon, the US Open, and the Australian Open. He retired in 1980.",
-    "dob": "July 10, 1943",
-    "died": "February 6, 1993",
-    "age": 49,
-    "knownFor": "Tennis"
-  },
-  {
-    "id": 8,
-    "name": "Crispus Attucks",
-    "description": "Crispus Attucks was an American stevedore of African and Native American descent, widely regarded as the first person killed in the Boston Massacre and thus the first American killed in the American Revolution.",
-    "dob": "c.1723",
-    "died": "March 5, 1770",
-    "age": 49,
-    "knownFor": "Stevedore"
-  },
-  {
-    "id": 9,
-    "name": "James Arthur Baldwin",
-    "description": "James Arthur Baldwin was an American novelist, playwright, essayist, poet, and activist. His essays, collected in Notes of a Native Son (1955), explore intricacies of racial, sexual, and class distinctions in the Western society of the United States during the mid twentieth-century.",
-    "dob": "August 2, 1924",
-    "died": "December 1, 1987",
-    "age": 63,
-    "knownFor": "Novelist, Playwright, Essayist, Poet, Activist"
-  },
-  {
-    "id": 10,
-    "name": "Benjamin Banneker",
-    "description": "Benjamin Banneker was a free African-American almanac author, surveyor, landowner and farmer who had knowledge of mathematics and natural history. Born in Baltimore County, Maryland, to a free African-American woman and a former slave, Banneker had little or no formal education and was largely self-taught. He became known for assisting Major Andrew Ellicott in a survey that established the original borders of the District of Columbia, the federal capital district of the United States.",
-    "dob": "November 9, 1731",
-    "died": "October 19, 1806",
-    "age": 74,
-    "knownFor": "Almanac author, surveyor, landowner, farmer"
-  },
-  {
-    "id": 11,
-    "name": "Amiri Baraka",
-    "description": "Amiri Baraka (born Everett LeRoi Jones ), previously known as LeRoi Jones and Imamu Amear Baraka, was an American writer of poetry, drama, fiction, essays and music criticism. He was the author of numerous books of poetry and taught at several universities, including the University at Buffalo and Stony Brook University. He received the PEN/Beyond Margins Award in 2008 for Tales of the Out and the Gone.",
-    "dob": "October 7, 1934",
-    "died": "January 9, 2014",
-    "age": 79,
-    "knownFor": "Actor, teacher, theater director, theater producer, writer, activist, poet"
-  },
-  {
-    "id": 12,
-    "name": "Romare Bearden",
-    "description": "Romare Bearden was an American artist, author, and songwriter. He worked with many types of media including cartoons, oils, and collages. Born in Charlotte, North Carolina, Bearden grew up in New York City and Pittsburgh, Pennsylvania, and graduated from New York University in 1935.",
-    "dob": "September 2, 1911",
-    "died": "March 12, 1988",
-    "age": 76,
-    "knownFor": "Artist, author, songwriter"
-  },
-  {
-    "id": 13,
-    "name": "Mary McLeod Bethune",
-    "description": "Mary Jane McLeod Bethune (born Mary Jane McLeod) was an American educator, stateswoman, philanthropist, humanitarian, womanist, and civil rights activist. Bethune founded the National Council for Negro Women in 1935, established the organization's flagship journal Aframerican Women's Journal, and resided as president or leader for myriad African American women's organizations including the National Association for Colored Women and the National Youth Administration's Negro Division",
-    "dob": "July 10, 1875",
-    "died": "May 18, 1955",
-    "age": 79,
-    "knownFor": "Educator, stateswoman, philanthropist, humanitarian, womanist, civil rights activist"
-  },
-  {
-    "id": 14,
-    "name": "Guion Bluford",
-    "description": "Guion Stewart Bluford Jr. is an American aerospace engineer, retired U.S. Air Force officer and fighter pilot, and former NASA astronaut, who is the first African American and the second person of African descent to go to space. Before becoming an astronaut, he was an officer in the U.S. Air Force, where he remained while assigned to NASA, rising to the rank of colonel. He participated in four Space Shuttle flights between 1983 and 1992. In 1983, as a member of the crew of the Orbiter Challenger on the mission STS-8, he became the first African American in space as well as the second person of African ancestry in space, after Cuban cosmonaut Arnaldo Tamayo Méndez.",
-    "dob": "November 22, 1942",
-    "died": "Alive",
-    "age": 78,
-    "knownFor": "Engineer, Fighter Pilot, Astronaut"
-  },
-  {
-    "id": 15,
-    "name": "Arna Bontemps",
-    "description": "Arna Wendell Bontemps was an American poet, novelist and librarian, and a noted member of the Harlem Renaissance.",
-    "dob": "October 13, 1902",
-    "died": "June 4, 1973",
-    "age": 71,
-    "knownFor": "Poet, novelist, librarian"
-  },
-  {
-    "id": 16,
-    "name": "Edward Brooke",
-    "description": "Edward William Brooke III was an American Republican politician. In 1966, he became the first African American popularly elected to the United States Senate. He represented Massachusetts in the Senate from 1967 to 1979.",
-    "dob": "October 26, 1919",
-    "died": "January 3, 2015",
-    "age": 95,
-    "knownFor": "United States Senator"
-  },
-  {
-    "id": 17,
-    "name": "Gwendolyn Brooks",
-    "description": "Gwendolyn Elizabeth Brooks was an American poet, author, and teacher. Her work often dealt with the personal celebrations and struggles of ordinary people in her community. She won the Pulitzer Prize for Poetry on May 1, 1950, for Annie Allen, making her the first African American to receive a Pulitzer Prize.",
-    "dob": "June 7, 1917",
-    "died": "December 3, 2000",
-    "age": 70,
-    "knownFor": "Poet, author, teacher"
-  },
-  {
-    "id": 18,
-    "name": "Blanche Bruce",
-    "description": "Blanche Kelso Bruce was born into slavery in Prince Edward County, Virginia and went on to become a politician who represented Mississippi as a Republican in the United States Senate from 1875 to 1881. He was the first elected African-American senator to serve a full term.",
-    "dob": "March 1, 1841",
-    "died": "March 17, 1898",
-    "age": 57,
-    "knownFor": "First African-American politician to serve a full term"
-  },
-  {
-    "id": 19,
-    "name": "Ralph Bunche",
-    "description": "Ralph Johnson Bunche was an American political scientist, academic, and diplomat who received the 1950 Nobel Peace Prize for his late 1940s mediation in Israel. He was the first African American to be so honored. He was involved in the formation and administration of the United Nations and played a major role in numerous peacekeeping operations sponsored by the UN. In 1963, he was awarded the Presidential Medal of Freedom by President John F. Kennedy",
-    "dob": "August 7, 1904",
-    "died": "December 9, 1971",
-    "age": 67,
-    "knownFor": "First African American to receive the Nobel Peace Prize"
-  },
-  {
-    "id": 20,
-    "name": "George Washington Carver",
-    "description": "George Washington Carver was an American agricultural scientist and inventor who promoted alternative crops to cotton and methods to prevent soil depletion. He was the most prominent black scientist of the early 20th century.",
-    "dob": "1 January 1864",
-    "died": "5 January 1943",
-    "age": 79,
-    "knownFor": "Scientist"
-  },
-]
-
-  {
-    "id": ,
-    "name": "",
-    "description": "",
-    "dob": "",
-    "died": "",
-    "age": ,
-    "knownFor": ""
-  },
+{
+  "people": [
+    {
+      "id": 1,
+      "name": "Hank Aaron",
+      "description": "Henry Louis Aaron , nicknamed \"Hammer\" or \"Hammerin' Hank\", was an American professional baseball right fielder who played 23 seasons in Major League Baseball (MLB), from 1954 through 1976. He spent 21 seasons with the Milwaukee/Atlanta Braves in the National League (NL) and two seasons with the Milwaukee Brewers in the American League (AL).",
+      "dob": "February 5, 1934",
+      "died": "January 22, 2021",
+      "age": 86,
+      "knownFor": "Baseball",
+      "image": "./images/hank_aaron.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ira Aldridge",
+      "description": "Ira Frederick Aldridge was an American and later British actor and playwright who made his career after 1824 largely on the London stage and in Europe, especially in Shakespearean roles. Born in New York City, Aldridge is the only actor of African-American descent among the thirty-three actors of the English stage honoured with bronze plaques at the Shakespeare Memorial Theatre at Stratford-upon-Avon.",
+      "dob": "July 24, 1807",
+      "died": "August 7, 1867",
+      "age": 60,
+      "knownFor": "Actor and playwright",
+      "image": "./images/ira_aldridge.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Muhammad Ali",
+      "description": "Muhammad Ali, born Cassius Marcellus Clay Jr. was an American professional boxer, activist, entertainer and philanthropist. Nicknamed The Greatest, he is widely regarded as one of the most significant and celebrated figures of the 20th century and as one of the greatest boxers of all time.",
+      "dob": "January 17, 1942",
+      "died": "June 3, 2016",
+      "age": 74,
+      "knownFor": "Boxing",
+      "image": "./images/muhammad_ali.webp"
+    },
+    {
+      "id": 4,
+      "name": "Richard Allen (bishop)",
+      "description": "Richard Allen was a minister, educator, writer, and one of America's most active and influential Black leaders. In 1794, he founded the African Methodist Episcopal Church (AME), the first independent Black denomination in the United States. He opened his first AME church in 1794 in Philadelphia, Pennsylvania.",
+      "dob": "February 14, 1760",
+      "died": "March 26, 1831",
+      "age": 71,
+      "knownFor": "Minister, Educator, Writer",
+      "image": "./images/richard_allen.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Marian Anderson",
+      "description": "Marian Anderson was an American contralto. She performed a wide range of music, from opera to spirituals. Anderson performed with renowned orchestras in major concert and recital venues throughout the United States and Europe between 1925 and 1965.",
+      "dob": "February 27, 1897",
+      "died": "April 8, 1993",
+      "age": 94,
+      "knownFor": "Contralto",
+      "image": "./images/marian_anderson.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Maya Angelou",
+      "description": "Maya Angelou, born Marguerite Annie Johnson, was an American poet, memoirist, and civil rights activist. She published seven autobiographies, three books of essays, several books of poetry, and is credited with a list of plays, movies, and television shows spanning over 50 years. She received dozens of awards and more than 50 honorary degrees. Angelou is best known for her series of seven autobiographies, which focus on her childhood and early adult experiences. The first, I Know Why the Caged Bird Sings (1969), tells of her life up to the age of 17 and brought her international recognition and acclaim.",
+      "dob": "April 4, 1928",
+      "died": "May 28, 2014",
+      "age": 86,
+      "knownFor": "Poet, Memoirist, Civil rights activist",
+      "image": "./images/maya_angelou.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Arthur Ashe",
+      "description": "Arthur Robert Ashe Jr. was an American professional tennis player who won three Grand Slam singles titles. He was the first black player selected to the United States Davis Cup team and the only black man ever to win the singles title at Wimbledon, the US Open, and the Australian Open. He retired in 1980.",
+      "dob": "July 10, 1943",
+      "died": "February 6, 1993",
+      "age": 49,
+      "knownFor": "Tennis",
+      "image": "./images/arthur_ashe.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Crispus Attucks",
+      "description": "Crispus Attucks was an American stevedore of African and Native American descent, widely regarded as the first person killed in the Boston Massacre and thus the first American killed in the American Revolution.",
+      "dob": "c.1723",
+      "died": "March 5, 1770",
+      "age": 49,
+      "knownFor": "Stevedore",
+      "image": "./images/crispus_attucks.jpg"
+    },
+    {
+      "id": 9,
+      "name": "James Baldwin",
+      "description": "James Arthur Baldwin was an American novelist, playwright, essayist, poet, and activist. His essays, collected in Notes of a Native Son (1955), explore intricacies of racial, sexual, and class distinctions in the Western society of the United States during the mid twentieth-century.",
+      "dob": "August 2, 1924",
+      "died": "December 1, 1987",
+      "age": 63,
+      "knownFor": "Novelist, Playwright, Essayist, Poet, Activist",
+      "image": "./images/james_baldwin.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Benjamin Banneker",
+      "description": "Benjamin Banneker was a free African-American almanac author, surveyor, landowner and farmer who had knowledge of mathematics and natural history. Born in Baltimore County, Maryland, to a free African-American woman and a former slave, Banneker had little or no formal education and was largely self-taught. He became known for assisting Major Andrew Ellicott in a survey that established the original borders of the District of Columbia, the federal capital district of the United States.",
+      "dob": "November 9, 1731",
+      "died": "October 19, 1806",
+      "age": 74,
+      "knownFor": "Almanac author, surveyor, landowner, farmer",
+      "image": "./images/benjamin_banneker.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Amiri Baraka",
+      "description": "Amiri Baraka (born Everett LeRoi Jones ), previously known as LeRoi Jones and Imamu Amear Baraka, was an American writer of poetry, drama, fiction, essays and music criticism. He was the author of numerous books of poetry and taught at several universities, including the University at Buffalo and Stony Brook University. He received the PEN/Beyond Margins Award in 2008 for Tales of the Out and the Gone.",
+      "dob": "October 7, 1934",
+      "died": "January 9, 2014",
+      "age": 79,
+      "knownFor": "Actor, teacher, theater director, theater producer, writer, activist, poet",
+      "image": "./images/amiri_baraka.jpg"
+    },
+    {
+      "id": 12,
+      "name": "Romare Bearden",
+      "description": "Romare Bearden was an American artist, author, and songwriter. He worked with many types of media including cartoons, oils, and collages. Born in Charlotte, North Carolina, Bearden grew up in New York City and Pittsburgh, Pennsylvania, and graduated from New York University in 1935.",
+      "dob": "September 2, 1911",
+      "died": "March 12, 1988",
+      "age": 76,
+      "knownFor": "Artist, author, songwriter",
+      "image": "./images/romare_bearden.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Mary McLeod Bethune",
+      "description": "Mary Jane McLeod Bethune (born Mary Jane McLeod) was an American educator, stateswoman, philanthropist, humanitarian, womanist, and civil rights activist. Bethune founded the National Council for Negro Women in 1935, established the organization's flagship journal Aframerican Women's Journal, and resided as president or leader for myriad African American women's organizations including the National Association for Colored Women and the National Youth Administration's Negro Division",
+      "dob": "July 10, 1875",
+      "died": "May 18, 1955",
+      "age": 79,
+      "knownFor": "Educator, stateswoman, philanthropist, humanitarian, womanist, civil rights activist",
+      "image": "./images/mary_mcleod_bethune.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Guion Bluford",
+      "description": "Guion Stewart Bluford Jr. is an American aerospace engineer, retired U.S. Air Force officer and fighter pilot, and former NASA astronaut, who is the first African American and the second person of African descent to go to space. Before becoming an astronaut, he was an officer in the U.S. Air Force, where he remained while assigned to NASA, rising to the rank of colonel. He participated in four Space Shuttle flights between 1983 and 1992. In 1983, as a member of the crew of the Orbiter Challenger on the mission STS-8, he became the first African American in space as well as the second person of African ancestry in space, after Cuban cosmonaut Arnaldo Tamayo Méndez.",
+      "dob": "November 22, 1942",
+      "died": "Alive",
+      "age": 78,
+      "knownFor": "Engineer, Fighter Pilot, Astronaut",
+      "image": "./images/guion_bluford.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Arna Bontemps",
+      "description": "Arna Wendell Bontemps was an American poet, novelist and librarian, and a noted member of the Harlem Renaissance.",
+      "dob": "October 13, 1902",
+      "died": "June 4, 1973",
+      "age": 71,
+      "knownFor": "Poet, novelist, librarian",
+      "image": "./images/arna_bontemps.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Edward Brooke",
+      "description": "Edward William Brooke III was an American Republican politician. In 1966, he became the first African American popularly elected to the United States Senate. He represented Massachusetts in the Senate from 1967 to 1979.",
+      "dob": "October 26, 1919",
+      "died": "January 3, 2015",
+      "age": 95,
+      "knownFor": "United States Senator",
+      "image": "./images/edward_brooke.jpg"
+    },
+    {
+      "id": 17,
+      "name": "Gwendolyn Brooks",
+      "description": "Gwendolyn Elizabeth Brooks was an American poet, author, and teacher. Her work often dealt with the personal celebrations and struggles of ordinary people in her community. She won the Pulitzer Prize for Poetry on May 1, 1950, for Annie Allen, making her the first African American to receive a Pulitzer Prize.",
+      "dob": "June 7, 1917",
+      "died": "December 3, 2000",
+      "age": 70,
+      "knownFor": "Poet, author, teacher",
+      "image": "./images/gwendolyn_brooks.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Blanche Bruce",
+      "description": "Blanche Kelso Bruce was born into slavery in Prince Edward County, Virginia and went on to become a politician who represented Mississippi as a Republican in the United States Senate from 1875 to 1881. He was the first elected African-American senator to serve a full term.",
+      "dob": "March 1, 1841",
+      "died": "March 17, 1898",
+      "age": 57,
+      "knownFor": "First African-American politician to serve a full term",
+      "image": "./images/blanche_bruce.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Ralph Bunche",
+      "description": "Ralph Johnson Bunche was an American political scientist, academic, and diplomat who received the 1950 Nobel Peace Prize for his late 1940s mediation in Israel. He was the first African American to be so honored. He was involved in the formation and administration of the United Nations and played a major role in numerous peacekeeping operations sponsored by the UN. In 1963, he was awarded the Presidential Medal of Freedom by President John F. Kennedy",
+      "dob": "August 7, 1904",
+      "died": "December 9, 1971",
+      "age": 67,
+      "knownFor": "First African American to receive the Nobel Peace Prize",
+      "image": "./images/ralph_bunche.jpg"
+    },
+    {
+      "id": 20,
+      "name": "George Washington Carver",
+      "description": "George Washington Carver was an American agricultural scientist and inventor who promoted alternative crops to cotton and methods to prevent soil depletion. He was the most prominent black scientist of the early 20th century.",
+      "dob": "1 January 1864",
+      "died": "5 January 1943",
+      "age": 79,
+      "knownFor": "Scientist",
+      "image": "./images/george_washington_carver.jpg"
+    },
+    {
+      "id": 21,
+      "name": "Shirley Chisholm",
+      "description": "Shirley Anita Chisholm (née St. Hill) was an American politician, educator, and author. In 1968, she became the first black woman elected to the United States Congress, representing New York's 12th congressional district for seven terms from 1969 to 1983. In the 1972 United States presidential election, she became the first African-American candidate for a major party's nomination for President of the United States, and the first woman to run for the Democratic Party's presidential nomination.",
+      "dob": "November 30, 1924",
+      "died": "January 1, 2005",
+      "age": 80,
+      "knownFor": "First black woman elected to the United States Congress",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Shirley_Chisholm.jpg/220px-Shirley_Chisholm.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Kenneth and Mamie Clark",
+      "description": "Kenneth Bancroft Clark and Mamie Phipps Clark (April 18, 1917 – August 11, 1983) were American psychologists who as a married team conducted research among children and were active in the Civil Rights Movement. They founded the Northside Center for Child Development in Harlem and the organization Harlem Youth Opportunities Unlimited (HARYOU).[2] Kenneth Clark was also an educator and professor at City College of New York, and first Black president of the American Psychological Association.",
+      "dob": "July 14, 1914",
+      "died": "May 1, 2005",
+      "age": 91,
+      "knownFor": "Psychologists",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Kenneth-b-clark.jpg/220px-Kenneth-b-clark.jpg"
+    },
+    {
+      "id": 23,
+      "name": "",
+      "description": "John Henrik Clarke (born John Henry Clark), was an African-American historian, professor, and a pioneer in the creation of Pan-African and Africana studies, and professional institutions in academia starting in the late 1960s.",
+      "dob": "January 1, 1915",
+      "died": "July 16, 1998",
+      "age": 83,
+      "knownFor": "Historian, Professor and pioneer in the creation of Pan-African and Africana studies",
+      "image": "https://www.zinnedproject.org/wp-content/uploads/2020/01/John-Henrik-Clarke-278x300.jpg"
+    },
+    {
+      "id": 24,
+      "name": "John Coltrane",
+      "description": "John William Coltrane was an American jazz saxophonist, clarinettist and composer. Working in the bebop and hard bop idioms early in his career, Coltrane helped pioneer the use of modes and was at the forefront of free jazz. He led at least fifty recording sessions and appeared on many albums by other musicians, including trumpeter Miles Davis and pianist Thelonious Monk.",
+      "dob": "September 23, 1926",
+      "died": "July 17, 1967",
+      "age": 40,
+      "knownFor": "",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/John_Coltrane_in_1963.jpg/220px-John_Coltrane_in_1963.jpg"
+    },
+    {
+      "id": 25,
+      "name": "Bill Cosby",
+      "description": "William Henry Cosby Jr. is an American stand-up comedian, actor, and author who held an active career for over six decades. Cosby began his career as a stand-up comic at the hungry i in San Francisco during the 1960s.",
+      "dob": "July 12, 1937",
+      "died": "Alive",
+      "age": 83,
+      "knownFor": "Stand up comedian",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Bill_Cosby_%286343659237%29_%28cropped%29.jpg/220px-Bill_Cosby_%286343659237%29_%28cropped%29.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Alexander Crummel",
+      "description": "Alexander Crummell was a pioneering African-American minister, academic and African nationalist. Ordained as an Episcopal priest in the United States, Crummell went to England in the late 1840s to raise money for his church by lecturing about American slavery. Abolitionists supported his three years of study at Cambridge University, where Crummell developed concepts of pan-Africanism.",
+      "dob": "March 3, 1819",
+      "died": "September 10, 1898",
+      "age": 79,
+      "knownFor": "Pioneering African-American minister, academic and African nationalist",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Alexander_Crummel_%28cropped%29.png/220px-Alexander_Crummel_%28cropped%29.png"
+    },
+    {
+      "id": 27,
+      "name": "Countee Cullen",
+      "description": "Countee Cullen (born Countee LeRoy Porter) was an American poet, novelist, children's writer, and playwright, particularly well known during the Harlem Renaissance.[1]",
+      "dob": "May 30, 1903 ",
+      "died": "January 9, 1946",
+      "age": 42,
+      "knownFor": "Poet, Novelist, Children's writer, playwright",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Counteecullen.jpg/220px-Counteecullen.jpg"
+    },
+    {
+      "id": 28,
+      "name": "Benjamin O. Davis Jr.",
+      "description": "Benjamin Oliver Davis Jr. was a United States Air Force general and commander of the World War II Tuskegee Airmen. He was the first Black Brigadier general in the United States Air Force. On December 9, 1998, he was advanced to four-star general by President Bill Clinton",
+      "dob": "December 18, 1912",
+      "died": "July 4, 2002",
+      "age": 89,
+      "knownFor": "First black Brigadier General in the United States Air Force",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Benjamindavis.jpg/220px-Benjamindavis.jpg"
+    },
+    {
+      "id": 29,
+      "name": "Martin R. Delany",
+      "description": "Martin Robison Delany was an African-American abolitionist, journalist, physician, soldier, and writer, and arguably the first proponent of black nationalism. Delany is credited with the Pan-African slogan of \"Africa for Africans.\"",
+      "dob": "May 6, 1812",
+      "died": "January 24, 1885",
+      "age": 72,
+      "knownFor": "Abolitionist, journalist, physician, soldier, writer, first proponent of black nationalism"
+    },
+    {
+      "id": 30,
+      "name": "Fredrick Douglass",
+      "description": "Frederick Douglass (born Frederick Augustus Washington Bailey) was an American social reformer, abolitionist, orator, writer, and statesman. After escaping from slavery in Maryland, he became a national leader of the abolitionist movement in Massachusetts and New York, becoming famous for his oratory and incisive antislavery writings. Accordingly, he was described by abolitionists in his time as a living counter-example to slaveholders' arguments that slaves lacked the intellectual capacity to function as independent American citizens. Likewise, Northerners at the time found it hard to believe that such a great orator had once been a slave.",
+      "dob": "c. February 1818",
+      "died": "February 20, 1895",
+      "age": 77,
+      "knownFor": "Social reformer, abolitionist, orater, writer, statesman",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Frederick_Douglass_%28circa_1879%29.jpg/220px-Frederick_Douglass_%28circa_1879%29.jpg"
+    }
+  ]
+}
