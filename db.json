@@ -108,7 +108,7 @@
       "died": "January 22, 2021",
       "age": 86,
       "knownFor": "Baseball",
-      "image": "./images/hank_aaron.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Hank_Aaron_1974.jpg/220px-Hank_Aaron_1974.jpg"
     },
     {
       "id": 2,
@@ -118,7 +118,7 @@
       "died": "August 7, 1867",
       "age": 60,
       "knownFor": "Actor and playwright",
-      "image": "./images/ira_aldridge.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ira_AldridgebyNorthcote.jpg/220px-Ira_AldridgebyNorthcote.jpg"
     },
     {
       "id": 3,
@@ -128,7 +128,7 @@
       "died": "June 3, 2016",
       "age": 74,
       "knownFor": "Boxing",
-      "image": "./images/muhammad_ali.webp"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Muhammad_Ali_NYWTS.jpg/220px-Muhammad_Ali_NYWTS.jpg"
     },
     {
       "id": 4,
@@ -138,7 +138,7 @@
       "died": "March 26, 1831",
       "age": 71,
       "knownFor": "Minister, Educator, Writer",
-      "image": "./images/richard_allen.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Richard_Allen_crop.jpg/220px-Richard_Allen_crop.jpg"
     },
     {
       "id": 5,
@@ -148,7 +148,7 @@
       "died": "April 8, 1993",
       "age": 94,
       "knownFor": "Contralto",
-      "image": "./images/marian_anderson.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Marian_Anderson.jpg/220px-Marian_Anderson.jpg"
     },
     {
       "id": 6,
@@ -158,7 +158,7 @@
       "died": "May 28, 2014",
       "age": 86,
       "knownFor": "Poet, Memoirist, Civil rights activist",
-      "image": "./images/maya_angelou.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg/220px-Angelou_at_Clinton_inauguration_%28cropped_2%29.jpg"
     },
     {
       "id": 7,
@@ -168,7 +168,7 @@
       "died": "February 6, 1993",
       "age": 49,
       "knownFor": "Tennis",
-      "image": "./images/arthur_ashe.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Arthur_Ashe_%28cropped%29.jpg/220px-Arthur_Ashe_%28cropped%29.jpg"
     },
     {
       "id": 8,
@@ -178,7 +178,7 @@
       "died": "March 5, 1770",
       "age": 49,
       "knownFor": "Stevedore",
-      "image": "./images/crispus_attucks.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Crispus_Attucks.jpg/220px-Crispus_Attucks.jpg"
     },
     {
       "id": 9,
@@ -188,7 +188,7 @@
       "died": "December 1, 1987",
       "age": 63,
       "knownFor": "Novelist, Playwright, Essayist, Poet, Activist",
-      "image": "./images/james_baldwin.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/James_Baldwin_37_Allan_Warren_%28cropped%29.jpg/250px-James_Baldwin_37_Allan_Warren_%28cropped%29.jpg"
     },
     {
       "id": 10,
@@ -198,7 +198,7 @@
       "died": "October 19, 1806",
       "age": 74,
       "knownFor": "Almanac author, surveyor, landowner, farmer",
-      "image": "./images/benjamin_banneker.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Benjamin_Banneker_mural_cropped.tif/lossy-page1-220px-Benjamin_Banneker_mural_cropped.tif.jpg"
     },
     {
       "id": 11,
@@ -208,7 +208,7 @@
       "died": "January 9, 2014",
       "age": 79,
       "knownFor": "Actor, teacher, theater director, theater producer, writer, activist, poet",
-      "image": "./images/amiri_baraka.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Amiri_Baraka_2013.jpg"
     },
     {
       "id": 12,
@@ -218,7 +218,7 @@
       "died": "March 12, 1988",
       "age": 76,
       "knownFor": "Artist, author, songwriter",
-      "image": "./images/romare_bearden.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Romare_Bearden.jpg/220px-Romare_Bearden.jpg"
     },
     {
       "id": 13,
@@ -228,7 +228,7 @@
       "died": "May 18, 1955",
       "age": 79,
       "knownFor": "Educator, stateswoman, philanthropist, humanitarian, womanist, civil rights activist",
-      "image": "./images/mary_mcleod_bethune.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Mary_McLeod_Bethune_%281949%29.jpg/220px-Mary_McLeod_Bethune_%281949%29.jpg"
     },
     {
       "id": 14,
@@ -238,7 +238,7 @@
       "died": "Alive",
       "age": 78,
       "knownFor": "Engineer, Fighter Pilot, Astronaut",
-      "image": "./images/guion_bluford.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Guion_Bluford.jpg/220px-Guion_Bluford.jpg"
     },
     {
       "id": 15,
@@ -248,7 +248,7 @@
       "died": "June 4, 1973",
       "age": 71,
       "knownFor": "Poet, novelist, librarian",
-      "image": "./images/arna_bontemps.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Arna_Bontemps_%281939%29.jpg/220px-Arna_Bontemps_%281939%29.jpg"
     },
     {
       "id": 16,
@@ -258,7 +258,7 @@
       "died": "January 3, 2015",
       "age": 95,
       "knownFor": "United States Senator",
-      "image": "./images/edward_brooke.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Edward_Brooke_at_1968_RNC_%281%29_%28cropped2%29.jpg/220px-Edward_Brooke_at_1968_RNC_%281%29_%28cropped2%29.jpg"
     },
     {
       "id": 17,
@@ -268,7 +268,7 @@
       "died": "December 3, 2000",
       "age": 70,
       "knownFor": "Poet, author, teacher",
-      "image": "./images/gwendolyn_brooks.jpg"
+      "image": "http://t2.gstatic.com/images?q=tbn:ANd9GcQvoc0ZfZxzSV3oUjltDrBi5lxIvIl1pWnkTUok2FN2gU6tYKt-pXezJjxJkuBX"
     },
     {
       "id": 18,
@@ -278,7 +278,7 @@
       "died": "March 17, 1898",
       "age": 57,
       "knownFor": "First African-American politician to serve a full term",
-      "image": "./images/blanche_bruce.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Blanche_Bruce_-_Brady-Handy.jpg/220px-Blanche_Bruce_-_Brady-Handy.jpg"
     },
     {
       "id": 19,
@@ -288,7 +288,7 @@
       "died": "December 9, 1971",
       "age": 67,
       "knownFor": "First African American to receive the Nobel Peace Prize",
-      "image": "./images/ralph_bunche.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Ralph_Bunche_-_1963_March_on_Washington.jpg/220px-Ralph_Bunche_-_1963_March_on_Washington.jpg"
     },
     {
       "id": 20,
@@ -298,7 +298,7 @@
       "died": "5 January 1943",
       "age": 79,
       "knownFor": "Scientist",
-      "image": "./images/george_washington_carver.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/George_Washington_Carver_c1910_-_Restoration.jpg/220px-George_Washington_Carver_c1910_-_Restoration.jpg"
     },
     {
       "id": 21,
