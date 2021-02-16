@@ -298,6 +298,717 @@
       "age": 77,
       "knownFor": "Social reformer, abolitionist, orater, writer, statesman",
       "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Frederick_Douglass_%28circa_1879%29.jpg/220px-Frederick_Douglass_%28circa_1879%29.jpg"
-    }
+    },
+    {
+      "id": 31,
+      "name": "Charles R. Drew",
+      "description": "Charles Richard Drew was an American surgeon and medical researcher. He researched in the field of blood transfusions, developing improved techniques for blood storage, and applied his expert knowledge to developing large-scale blood banks early in World War II. This allowed medics to save thousands of lives of the Allied forces. As the most prominent African American in the field, Drew protested against the practice of racial segregation in the donation of blood, as it lacked scientific foundation, and resigned his position with the American Red Cross, which maintained the policy until 1950.",
+      "dob": "June 3, 1904",
+      "died": "April 1, 1950",
+      "age": 45,
+      "knownFor": "Surgeon and medical researcher",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Portrait_of_Charles_Drew.jpg/220px-Portrait_of_Charles_Drew.jpg"
+    },
+    {
+      "id": 32,
+      "name": "W. E. B. Du Bois",
+      "description": "William Edward Burghardt Du Bois was an American sociologist, socialist, historian, civil rights activist, Pan-Africanist, author, writer and editor. Born in Great Barrington, Massachusetts, Du Bois grew up in a relatively tolerant and integrated community, and after completing graduate work at the University of Berlin and Harvard, where he was the first African American to earn a doctorate, he became a professor of history, sociology and economics at Atlanta University. Du Bois was one of the founders of the National Association for the Advancement of Colored People (NAACP) in 1909.",
+      "dob": "February 23, 1868",
+      "died": "August 27, 1963",
+      "age": 95,
+      "knownFor": "Sociologist, socialist, historian, civil rights activist, Pan-africanist, author, writer, editor",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/WEB_DuBois_1918.jpg/220px-WEB_DuBois_1918.jpg"
+    },
+    {
+      "id": 33,
+      "name": "Paul Laurence Dunbar",
+      "description": "Paul Laurence Dunbar was an American poet, novelist, and short story writer of the late 19th and early 20th centuries. Born in Dayton, Ohio to parents who were enslaved in Kentucky before the American Civil War, Dunbar began writing stories and verse when he was a child. He published his first poems at the age of 16 in a Dayton newspaper, and served as president of his high school's literary society.",
+      "dob": "June 27, 1872",
+      "died": "February 9, 1906",
+      "age": 33,
+      "knownFor": "Poet, novelist, short story writer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Paul_Laurence_Dunbar_circa_1890.jpg/220px-Paul_Laurence_Dunbar_circa_1890.jpg"
+    },
+    {
+      "id": 34,
+      "name": "Katherine Dunham",
+      "description": "Katherine Dunham was an African-American dancer, choreographer, creator of the Dunham Technique, author, educator, anthropologist, and social activist. Dunham had one of the most successful dance careers in African-American and European theater of the 20th century, and directed her own dance company for many years. She has been called the \"matriarch and queen mother of black dance.\"",
+      "dob": "June 22, 1909",
+      "died": "May 21, 2006",
+      "age": 96,
+      "knownFor": "Dancer, choreographer, creator of the Dunham Technique, author, educator, social activist",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Katherine_Dunham.jpg/220px-Katherine_Dunham.jpg"
+    },
+    {
+      "id": 35,
+      "name": "Duke Ellington",
+      "description": "Edward Kennedy \"Duke\" Ellington was an American composer, pianist, and leader of a jazz orchestra, which he led from 1923 until his death over a career spanning more than six decades.[1]",
+      "dob": "April 29, 1899",
+      "died": "May 24, 1974",
+      "age": 75,
+      "knownFor": "Composer, pianist, leader of jazz orchestra",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Duke_Ellington_-_publicity.JPG/220px-Duke_Ellington_-_publicity.JPG"
+    },
+    {
+      "id": 36,
+      "name": "James Forten",
+      "description": "James Forten was an African-American abolitionist and wealthy businessman in Philadelphia, Pennsylvania. Born free in the city, he became a sailmaker after the American Revolutionary War. Following an apprenticeship, he became the foreman and bought the sail loft when his boss retired. Based on equipment he himself had developed, he established a highly profitable business. It was located on the busy waterfront of the Delaware River, in an area now called Penn's Landing.",
+      "dob": "September 2, 1766",
+      "died": "March 4, 1842",
+      "age": 75,
+      "knownFor": "Abolistionist, wealthy businessman",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/James_Forten_%28cropped%29.jpg/220px-James_Forten_%28cropped%29.jpg"
+    },
+    {
+      "id": 37,
+      "name": "John Hope Franklin",
+      "description": "John Hope Franklin was an American historian of the United States and former president of Phi Beta Kappa, the Organization of American Historians, the American Historical Association, and the Southern Historical Association. Franklin is best known for his work From Slavery to Freedom, first published in 1947, and continually updated. More than three million copies have been sold. In 1995, he was awarded the Presidential Medal of Freedom, the nation's highest civilian honor.",
+      "dob": "January 2, 1915",
+      "died": "March 25, 2009",
+      "age": 94,
+      "knownFor": "From Slavery to Freedom Book, historian, former president of Phi Beta Kappa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/John_Hope_Franklin.png"
+    },
+    {
+      "id": 38,
+      "name": "Henry Highland Garnet",
+      "description": "Henry Highland Garnet was an African-American abolitionist, minister, educator and orator. Having escaped with his family as a child from slavery in Maryland, he grew up in New York City. He was educated at the African Free School and other institutions, and became an advocate of militant abolitionism. He became a minister and based his drive for abolitionism in religion.",
+      "dob": "December 23, 1815",
+      "died": "February 13, 1882",
+      "age": 66,
+      "knownFor": "Abolitionist, minister, educator and orator",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Motto_henry_highland_garnet_original.jpg/220px-Motto_henry_highland_garnet_original.jpg"
+    },
+    {
+      "id": 39,
+      "name": "Marcus Garvey",
+      "description": "Marcus Mosiah Garvey Sr. ONH was a Jamaican political activist, publisher, journalist, entrepreneur, and orator. He was the founder and first President-General of the Universal Negro Improvement Association and African Communities League (UNIA-ACL, commonly known as UNIA), through which he declared himself Provisional President of Africa. Ideologically a black nationalist and Pan-Africanist, his ideas came to be known as Garveyism.",
+      "dob": "17 August 1887",
+      "died": "10 June 1940",
+      "age": 52,
+      "knownFor": "Activist, publisher, journalist, entrepreneur, orator. His ideas came to be known as 'Garveyism'",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Marcus_Garvey_1924-08-05.jpg/220px-Marcus_Garvey_1924-08-05.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Prince Hall",
+      "description": "Prince Hall was an abolitionist and leader in the free black community in Boston. He founded Prince Hall Freemasonry and lobbied for education rights for African American children. He was also active in the back-to-Africa movement.",
+      "dob": "c. 1735",
+      "died": "4 December 1807",
+      "age": 72,
+      "knownFor": "Abolistionist, leader of the free black community in Boston",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Prince_hall_portrait.jpg/220px-Prince_hall_portrait.jpg"
+    },
+    {
+      "id": 41,
+      "name": "Fannie Lou Hamer",
+      "description": "Fannie Lou Hamer (née Townsend) was an American voting and women's rights activist, community organizer, and a leader in the civil rights movement. She was the co-founder and vice-chair of the Freedom Democratic Party, which she represented at the 1964 Democratic National Convention. Hamer also organized Mississippi's Freedom Summer along with the Student Nonviolent Coordinating Committee (SNCC). She was also a co-founder of the National Women's Political Caucus, an organization created to recruit, train, and support women of all races who wish to seek election to government office.[1]",
+      "dob": "October 6, 1917",
+      "died": "March 14, 1977",
+      "age": 59,
+      "knownFor": "Voting and women's rights activist, community organizer, leader in the civil rights movement, co-founder and vice chair of the Freedom Democratic Party",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Fannie_Lou_Hamer.png/220px-Fannie_Lou_Hamer.png"
+    },
+    {
+      "id": 42,
+      "name": "Lorrain Hansberry",
+      "description": "Lorraine Vivian Hansberry was a playwright and writer. She was the first African-American female author to have a play performed on Broadway. Her best known work, the play A Raisin in the Sun, highlights the lives of Black Americans living under racial segregation in Chicago. The title of the play was taken from the poem \"Harlem\" by Langston Hughes: \"What happens to a dream deferred? Does it dry up like a raisin in the sun?\" At the age of 29, she won the New York Drama Critics' Circle Award — making her the first African-American dramatist, the fifth woman, and the youngest playwright to do so. Hansberry's family had struggled against segregation, challenging a restrictive covenant and eventually provoking the 1940 Supreme Court case Hansberry v. Lee.",
+      "dob": "May 19, 1930",
+      "died": "January 12, 1965",
+      "age": 34,
+      "knownFor": "Playwright and writer",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/Lorraine_Hansberry.jpg/220px-Lorraine_Hansberry.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Dorothy Height",
+      "description": "Dorothy Irene Height was an American civil rights and women's rights activist. She focused on the issues of African American women, including unemployment, illiteracy, and voter awareness. Height is credited as the first leader in the civil rights movement to recognize inequality for women and African Americans as problems that should be considered as a whole. She was the president of the National Council of Negro Women for forty years.",
+      "dob": "March 24, 1912",
+      "died": "April 20, 2010",
+      "age": 98,
+      "knownFor": "Civil rights and women's rights activist",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DrDorothyHeight.jpg/220px-DrDorothyHeight.jpg"
+    },
+    {
+      "id": 44,
+      "name": "Matthew Henson",
+      "description": "Matthew Alexander Henson was an American explorer who accompanied Robert Peary on seven voyages to the Arctic over a period of nearly 23 years. They spent a total of 18 years on expeditions together. He is best known for his participation in the 1908–1909 expedition that claimed to have reached the geographic North Pole on April 6, 1909. Henson said he was the first of their party to reach the pole.",
+      "dob": "August 8, 1866",
+      "died": "March 9, 1955",
+      "age": 88,
+      "knownFor": "1908-1909 expedition to the north pole",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Matthew_Henson_1910.jpg/220px-Matthew_Henson_1910.jpg"
+    },
+    {
+      "id": 45,
+      "name": "Charles Hamilton Houston",
+      "description": "Charles Hamilton Houston was a prominent African-American lawyer, Dean of Howard University Law School, and NAACP first special counsel, or Litigation Director. A graduate of Amherst College and Harvard Law School, Houston played a significant role in dismantling Jim Crow laws, especially attacking segregation in schools and racial housing covenants. He earned the title \"The Man Who Killed Jim Crow\"",
+      "dob": "September 3, 1895",
+      "died": "April 22, 1950",
+      "age": 54,
+      "knownFor": "Lawyer, dean of Howard University Law School, NAACP first special counsel or Litigation Director",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Charles_Hamilton_Houston.jpg"
+    },
+    {
+      "id": 46,
+      "name": "Langston Hughes",
+      "description": "James Mercer Langston Hughes was an American poet, social activist, novelist, playwright, and columnist from Joplin, Missouri. One of the earliest innovators of the then-new literary art form called jazz poetry, Hughes is best known as a leader of the Harlem Renaissance. He famously wrote about the period that \"the Negro was in vogue\", which was later paraphrased as \"when Harlem was in vogue.\"",
+      "dob": "February 1, 1901",
+      "died": "May 22, 1967",
+      "age": 66,
+      "knownFor": "Poet, social activist, novelist, playwright, columnist, a leader of the Harlem Renaissance",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/LangstonHughes_crop.jpg/220px-LangstonHughes_crop.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Zora Neale Hurston",
+      "description": "Zora Neale Hurston was an American author, anthropologist, and filmmaker. She portrayed racial struggles in the early-1900s American South and published research on hoodoo. The most popular of her four novels is Their Eyes Were Watching God, published in 1937. She also wrote more than 50 short stories, plays, and essays.",
+      "dob": "January 7, 1891",
+      "died": "January 28, 1960",
+      "age": 69,
+      "knownFor": "Author, anthropologist, filmmaker",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hurston-Zora-Neale-LOC.jpg/220px-Hurston-Zora-Neale-LOC.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Jesse Jackson",
+      "description": "Jesse Louis Jackson (né Burns) is an American political activist, Baptist minister, and politician. He was a candidate for the Democratic presidential nomination in 1984 and 1988 and served as a shadow U.S. Senator for the District of Columbia from 1991 to 1997.",
+      "dob": "October 8, 1941",
+      "died": "Alive",
+      "age": 79,
+      "knownFor": "Political activist, Baptist minister, politician",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Jesse_Jackson_2013.jpg/220px-Jesse_Jackson_2013.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Mae Jemison",
+      "description": "Mae Carol Jemison is an American engineer, physician, and former NASA astronaut. She became the first black woman to travel into space when she served as a mission specialist aboard the Space Shuttle Endeavour. Jemison joined NASA's astronaut corps in 1987 and was selected to serve for the STS-47 mission, during which she orbited the Earth for nearly eight days on September 12–20, 1992.",
+      "dob": "October 17, 1956",
+      "died": "Alive",
+      "age": 64,
+      "knownFor": "Engineer, physician, former NASA astronaut",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mae_Carol_Jemison.jpg/220px-Mae_Carol_Jemison.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Jack Johnson",
+      "description": "John Arthur Johnson nicknamed the \"Galveston Giant\", was an American boxer who, at the height of the Jim Crow era, became the first African American world heavyweight boxing champion (1908–1915). Widely regarded as one of the most influential boxers of all time, one of the period's most dominant champions, and as a boxing legend, his 1910 fight against James J. Jeffries was dubbed the \"fight of the century\". According to filmmaker Ken Burns, \"for more than thirteen years, Jack Johnson was the most famous and the most notorious African-American on Earth\". Transcending boxing, he became part of the culture and history of racism in the United States.",
+      "dob": "March 31, 1878",
+      "died": "June 10, 1946",
+      "age": 68,
+      "knownFor": "Boxer, first African-American world heavyweight boxing champion",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Jack_Johnson%2C_1915_%28edit%29.jpg/220px-Jack_Johnson%2C_1915_%28edit%29.jpg"
+    },
+    {
+      "id": 51,
+      "name": "James Weldon Johnson",
+      "description": "James Weldon Johnson was an American writer and civil rights activist. He was married to civil rights activist Grace Nail Johnson. Johnson was a leader of the National Association for the Advancement of Colored People (NAACP), where he started working in 1917. In 1920, he was the first African American to be chosen as executive secretary of the organization, effectively the operating officer. He served in that position from 1920 to 1930. Johnson established his reputation as a writer, and was known during the Harlem Renaissance for his poems, novels, and anthologies collecting both poems and spirituals of black culture. He wrote the lyrics for \"Lift Every Voice and Sing\", which later became known as the Negro National Anthem.",
+      "dob": "June 17, 1876",
+      "died": "June 26, 1938",
+      "age": 67,
+      "knownFor": "Writer, civil rights activist",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Portrait_of_James_Weldon_Johnson_LCCN2004663098.tif/lossy-page1-200px-Portrait_of_James_Weldon_Johnson_LCCN2004663098.tif.jpg"
+    },
+    {
+      "id": 52,
+      "name": "John H. Johnson",
+      "description": "John Harold Johnson was an American businessman and publisher. Johnson was the founder of the Johnson Publishing Company which is headquartered in Chicago, Illinois. Johnson's Ebony (1945) and Jet (1951–2014) magazines are among the most influential African-American businesses in media beginning in the second half of the twentieth century. In 1982, Johnson became the first African American to appear on the Forbes 400. In 1987, Johnson was named Black Enterprise Entrepreneur of the year.",
+      "dob": "January 19, 1918",
+      "died": "August 8, 2005",
+      "age": 87,
+      "knownFor": "Businessman, entrepreneur, first African American to appear on the Forbes 400",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/24/John_H._Johnson.jpg/220px-John_H._Johnson.jpg"
+    },
+    {
+      "id": 53,
+      "name": "Percy lavon Julian",
+      "description": "Percy Lavon Julian was an American research chemist and a pioneer in the chemical synthesis of medicinal drugs from plants. He was the first to synthesize the natural product physostigmine, plus a pioneer in the industrial large-scale chemical synthesis of the human hormones progesterone and testosterone from plant sterols such as stigmasterol and sitosterol. His work laid the foundation for the steroid drug industry's production of cortisone, other corticosteroids, and birth control pills.",
+      "dob": "April 11, 1899",
+      "died": "April 19, 1975",
+      "age": 76,
+      "knownFor": "Research chemist, pioneer in the chemical synthesis of medicinal drugs from plants",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d6/Percy_Lavon_Julian.jpg/220px-Percy_Lavon_Julian.jpg"
+    },
+    {
+      "id": 54,
+      "name": "Ernest Everett Just",
+      "description": "Ernest Everett Just was a pioneering African-American biologist, academic and science writer. Just's primary legacy is his recognition of the fundamental role of the cell surface in the development of organisms. In his work within marine biology, cytology and parthenogenesis, he advocated the study of whole cells under normal conditions, rather than simply breaking them apart in a laboratory setting.",
+      "dob": "August 14, 1883",
+      "died": "October 27, 1941",
+      "age": 58,
+      "knownFor": "Biologist, academic and science writer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Ernest_Everett_Just.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Maulana Karenga",
+      "description": "Maulana Ndabezitha Karenga,[1][2][3] previously known as Ron Karenga, is an American professor of Africana studies, activist, and author best known as the creator of the pan-African and the African-American holiday of Kwanzaa.",
+      "dob": "14 July 1941",
+      "died": "Alive",
+      "age": 79,
+      "knownFor": "Professor of Africana studies, activist, author, creator of the pan-African and the African-American holiday of Kwanzaa",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Maulana_Ndabezitha_Karenga_%28Ronald_McKinley_Everett%29_2003.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Martin Luther King Jr.",
+      "description": "Martin Luther King Jr. (born Michael King Jr.) was an African American Baptist minister and activist who became the most visible spokesperson and leader in the Civil Rights Movement from 1955 until his assassination in 1968. King is best known for advancing civil rights through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. He was the son of early civil rights activist Martin Luther King, Sr.",
+      "dob": "January 15, 1929",
+      "died": "April 4, 1968",
+      "age": 39,
+      "knownFor": "Baptist minister and activist, leader in the Civil Rights Movement from 1955-1968",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/220px-Martin_Luther_King%2C_Jr..jpg"
+    },
+    {
+      "id": 57,
+      "name": "Edmonia Lewis",
+      "description": "Mary Edmonia Lewis, \"Wildfire\", was an African-American sculptor, of mixed African-American and Native American (Ojibwe) heritage. Born free in Upstate New York, she worked for most of her career in Rome, Italy. She was the first African-American sculptor to achieve national and then international prominence. She began to gain prominence in the United States during the Civil War; at the end of the 19th century, she remained the only Black woman artist who had participated in and been recognized to any extent by the American artistic mainstream. In 2002, the scholar Molefi Kete Asante named Edmonia Lewis on his list of 100 Greatest African Americans.",
+      "dob": "c. July 4, 1844",
+      "died": "September 17, 1907",
+      "age": 63,
+      "knownFor": "Sculptor",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Motto_edmonia_lewis_original.jpg/220px-Motto_edmonia_lewis_original.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Alain Leroy Locke",
+      "description": "Alain Leroy Locke was an American writer, philosopher, educator, and patron of the arts. Distinguished in 1907 as the first African-American Rhodes Scholar, Locke became known as the philosophical architect —the acknowledged \"Dean\"— of the Harlem Renaissance. He is frequently included in listings of influential African Americans. On March 19, 1968, the Rev. Dr. Martin Luther King, Jr. proclaimed: \"We're going to let our children know that the only philosophers that lived were not Plato and Aristotle, but W. E. B. Du Bois and Alain Locke came through the universe.\"",
+      "dob": "September 13, 1885",
+      "died": "June 9, 1954",
+      "age": 68,
+      "knownFor": "Writer, philosopher, educator, patron of the arts",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Alain_LeRoy_Locke.jpg/220px-Alain_LeRoy_Locke.jpg"
+    },
+    {
+      "id": 59,
+      "name": "Joe Louis",
+      "description": "Joseph Louis Barrow was an American professional boxer who competed from 1934 to 1951. Nicknamed the Brown Bomber, Louis is widely regarded as one of the greatest and most influential boxers of all time. He reigned as the world heavyweight champion from 1937 to 1949, during which he participated in 27 championship fights. The 27th fight, against Ezzard Charles in 1950, was a challenge for Charles' heavyweight title and so is not included in Louis' reign. He was victorious in 25 consecutive title defenses. In 2005, Louis was ranked as the best heavyweight of all time by the International Boxing Research Organization, and was ranked number one on The Ring magazine's list of the \"100 greatest punchers of all time\". Louis had the longest single reign as champion of any heavyweight boxer in history. He has been ranked as the world's best heavyweight by BoxRec 11 times (the second most in history, only behind Muhammad Ali) and has been placed within ten best 15 times. Six of his victorious fights were rated 5-Star by BoxRec.",
+      "dob": "May 13, 1914",
+      "died": "April 12, 1981",
+      "age": 66,
+      "knownFor": "Boxer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Joe_Louis_by_van_Vechten.jpg/220px-Joe_Louis_by_van_Vechten.jpg"
+    },
+    {
+      "id": 60,
+      "name": "Thurgood Marshall",
+      "description": "Thurgood Marshall was an American lawyer and civil rights activist who served as Associate Justice of the Supreme Court of the United States from October 1967 until October 1991. Marshall was the Court's first African-American justice. Prior to his judicial service, he successfully argued several cases before the Supreme Court, including Brown v. Board of Education.",
+      "dob": "July 2, 1908",
+      "died": "January 24, 1993",
+      "age": 84,
+      "knownFor": "First African American Supreme Court Justice",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Thurgood-marshall-2.jpg/220px-Thurgood-marshall-2.jpg"
+    },
+    {
+      "id": 61,
+      "name": "Benjamin Mays",
+      "description": "Benjamin Elijah Mays was an American Baptist minister and American rights leader who is credited with laying the intellectual foundations of the American civil rights movement. Mays taught and mentored many influential activists, including Martin Luther King Jr, Julian Bond, Maynard Jackson, and Donn Clendenon, among others. His rhetoric and intellectual pursuits focused on the spread of nonviolence and civil resistance in the mold of Mahatma Gandhi. The peak of his public influence coincided with his nearly three-decade tenure as the sixth president of Morehouse College, a historically black institution of higher learning, in Atlanta, Georgia.",
+      "dob": "August 1, 1894",
+      "died": "March 28, 1984",
+      "age": 89,
+      "knownFor": "Baptist minister, American rights leader credited with laying the foundations of the American civil rights movement",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Benjamin_Mays_Portrait_1921.png/220px-Benjamin_Mays_Portrait_1921.png"
+    },
+    {
+      "id": 62,
+      "name": "Eliajh McCoy",
+      "description": "Elijah J. McCoy was a Canadian-born inventor and engineer of African American descent who was notable for his 57 US patents, most having to do with the lubrication of steam engines. Born free in Canada, he came to the United States as a young child when his family returned in 1847, becoming a U.S. resident and citizen.",
+      "dob": "May 2, 1844",
+      "died": "October 10, 1929",
+      "age": 85,
+      "knownFor": "Inventor, engineer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Elijah_McCoy.jpg/220px-Elijah_McCoy.jpg"
+    },
+    {
+      "id": 63,
+      "name": "Claude McKay",
+      "description": "Festus Claudius \"Claude\" McKay as a Jamaican writer and poet, and was a central figure in the Harlem Renaissance. He wrote five novels: Home to Harlem (1928), a best-seller that won the Harmon Gold Award for Literature, Banjo (1929), Banana Bottom (1933), Romance in Marseille (published in 2020), and in 1941 a manuscript called Amiable With Big Teeth: A Novel of the Love Affair Between the Communists and the Poor Black Sheep of Harlem which remained unpublished until 2017. McKay also authored collections of poetry, a collection of short stories, Gingertown (1932), two autobiographical books, A Long Way from Home (1937) and My Green Hills of Jamaica (published posthumously in 1979), and non-fiction, a socio-historical treatise entitled Harlem: Negro Metropolis (1940). His 1922 poetry collection, Harlem Shadows, was among the first books published during the Harlem Renaissance. His Selected Poems was published posthumously, in 1953.",
+      "dob": "September 15, 1889",
+      "died": "May 22, 1948",
+      "age": 58,
+      "knownFor": "Writer, poet, central figure in the Harlem Renaissance",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Mackey.jpg/220px-Mackey.jpg"
+    },
+    {
+      "id": 64,
+      "name": "Oscar Micheaux",
+      "description": "Oscar Devereaux Micheaux was an African-American author, film director and independent producer of more than 44 films. Although the short-lived Lincoln Motion Picture Company was the first movie company owned and controlled by black filmmakers, Micheaux is regarded as the first major African-American feature filmmaker, a prominent producer of race film, and has been described as \"the most successful African-American filmmaker of the first half of the 20th century\". He produced both silent films and sound films.",
+      "dob": "January 2, 1884",
+      "died": "March 25, 1951",
+      "age": 67,
+      "knownFor": "Author, film director, independent producer of more than 44 films",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Oscar_Micheaux.jpg/180px-Oscar_Micheaux.jpg"
+    },
+    {
+      "id": 65,
+      "name": "Doris Miller",
+      "description": "Doris \"Dorie\" Miller was a United States Navy cook third class who was killed in action during World War II. He was the first black American to be awarded the Navy Cross, the second highest decoration for valor in combat after the Medal of Honor.",
+      "dob": "October 12, 1919",
+      "died": "November 24, 1943",
+      "age": 24,
+      "knownFor": "First black American to be awarded the Navy Cross",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Dorie_Miller.jpg/300px-Dorie_Miller.jpg"
+    },
+    {
+      "id": 66,
+      "name": "Garret Morgan",
+      "description": "Garrett Augustus Morgan, Sr. was an African-American inventor, businessman, and community leader. His most notable inventions were a three-position traffic signal and a smoke hood (a predecessor to the gas mask) notably used in a 1916 tunnel construction disaster rescue. Morgan also discovered and developed a chemical hair-processing and straightening solution. He created a successful company based on his hair product inventions along with a complete line of hair-care products, and became involved in the civic and political advancement of African-Americans, especially in and around Cleveland, Ohio.",
+      "dob": "March 4, 1877",
+      "died": "July 27, 1963",
+      "age": 86,
+      "knownFor": "Inventor, businessman, community leader",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/Garrett_Morgan.gif/220px-Garrett_Morgan.gif"
+    },
+    {
+      "id": 67,
+      "name": "Toni Morrison",
+      "description": "Chloe Anthony Wofford Morrison (born Chloe Ardelia Wofford), known as Toni Morrison, was an American novelist, essayist, book editor, and college professor. Her first novel, The Bluest Eye, was published in 1970. The critically acclaimed Song of Solomon (1977) brought her national attention and won the National Book Critics Circle Award. In 1988, Morrison won the Pulitzer Prize for Beloved (1987); she gained worldwide recognition when she was awarded the Nobel Prize in Literature in 1993.",
+      "dob": "February 18, 1931",
+      "died": "August 5, 2019",
+      "age": 88,
+      "knownFor": "Novelist, essayist, book editor, college professor",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Toni_Morrison.jpg/220px-Toni_Morrison.jpg"
+    },
+    {
+      "id": 68,
+      "name": "Elijah Muhammad",
+      "description": "Elijah Muhammad (born Elijah Robert Poole) was a religious leader and author who led the Nation of Islam (NOI) from 1934 until his death in 1975, and was known as The Messenger of Allah (God), to the Nation of Islam believers. Muhammad was also the teacher and mentor of Malcolm X, Louis Farrakhan, Muhammad Ali, and his own son, Warith Deen Mohammed.",
+      "dob": "October 7, 1897",
+      "died": "February 25, 1975",
+      "age": 77,
+      "knownFor": "Relogious leader and author who led the Nation of Islam (NOI)",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Elijah_Muhammad_NYWTS-2.jpg/220px-Elijah_Muhammad_NYWTS-2.jpg"
+    },
+    {
+      "id": 69,
+      "name": "Jesse Owens",
+      "description": "James Cleveland \"Jesse\" Owens was an American track and field athlete and four-time gold medalist in the 1936 Olympic Games.",
+      "dob": "September 12, 1913",
+      "died": "March 31, 1980",
+      "age": 66,
+      "knownFor": "Track and field athelete, four-time gold medalist in the 1936 Olympic Games",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jesse_Owens_1936.jpg/200px-Jesse_Owens_1936.jpg"
+    },
+    {
+      "id": 70,
+      "name": "Rosa Parks",
+      "description": "Rosa Louise McCauley Parks was an American activist in the civil rights movement best known for her pivotal role in the Montgomery bus boycott. The United States Congress has called her \"the first lady of civil rights\" and \"the mother of the freedom movement\".",
+      "dob": "February 4, 1913",
+      "died": "October 24, 2005",
+      "age": 92,
+      "knownFor": "Activist in the civil rights movement, knows as \"The first lady of civil rights\" and \"The mother of the freedom movement\"",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rosaparks.jpg/220px-Rosaparks.jpg"
+    },
+    {
+  "id": 71,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 72,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+      "id": 73,
+      "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 74,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 75,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 76,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 77,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 78,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 79,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 80,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 81,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 82,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 83,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 84,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 85,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 86,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 87,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 88,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 89,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 90,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 91,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 92,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 93,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 94,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 95,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 96,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 97,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 98,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 99,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
+    {
+  "id": 100,
+  "name": "",
+  "description": "",
+  "dob": "",
+  "died": "",
+  "age": ,
+  "knownFor": "",
+  "image": ""
+  },
   ]
 }
+
+// Github repo: https://github.com/SankThomas/black-history-month-api.git
+/* Todos
+
+1. Add images
+
+NOTE: If you're seeing this, I know the errors are there. The final product will not have the errors.
+
+*/
+
+// Add image paths instead of local images?
