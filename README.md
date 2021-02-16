@@ -11,7 +11,8 @@
 
 ### Plans
 
-I will make a React App out of this and I will therefore place this API on a live link which will be posted later.
+I will make a React App out of this.
+Visit the api [here](https://black-history-month-api.netlify.app/db.json)
 
 ### Side notes
 
